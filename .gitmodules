@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:migoro-advx/migoro-backend.git
+	branch = main
+[submodule "web"]
+	path = web
+	url = git@github.com:migoro-advx/migoro-web.git
+	branch = main
