@@ -6,3 +6,7 @@
 	path = web
 	url = git@github.com:migoro-advx/migoro-web.git
 	branch = main
+[submodule "agent"]
+	path = agent
+	url = git@github.com:migoro-advx/migoro-agent.git
+	branch = master
